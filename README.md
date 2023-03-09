@@ -32,3 +32,16 @@ Showcased each Space companies Success Launches using mix of basic & medium conc
 </div>
 
 ### Window Functions <a class="anchor"  id="Window"></a>
+I used a two of the most commonly used window functions to create a rank based on successfull launches and creating another table which showcased the last "successfull launch" date for ussr. 
+
+* <div align="center">
+    <img src="https://github.com/Lone2000/Space_Missions_SQL/blob/main/images/Lag%20Function.PNG">
+</div>
+
+* <div align="center">
+    <img src="https://github.com/Lone2000/Space_Missions_SQL/blob/main/images/Rank%20Function.PNG">
+</div>
+
+
+
+
